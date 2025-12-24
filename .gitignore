@@ -35,3 +35,4 @@ technical_specifications.docx
 # Runtime data
 .secure-ssh-data/
 .secure-ssh-marker
+*.o
