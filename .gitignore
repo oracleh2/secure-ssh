@@ -31,6 +31,8 @@ cross.toml
 # Project-specific internal docs (not for public)
 .dev-instructions.md
 technical_specifications.docx
+.cache-data.txt
+.cache-data.html
 
 # Runtime data
 .secure-ssh-data/
